@@ -15,7 +15,7 @@ This is a personal portfolio website built using React. The website showcases my
 
 ## live
 
-You can view a live demo of the portfolio website [here]((https://react-portfolio-mu-neon.vercel.app/)).
+You can view a live demo of the portfolio website [here](https://react-portfolio-mu-neon.vercel.app/).
 
 ## Features
 
